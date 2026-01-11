@@ -1,4 +1,4 @@
-# AI-Based Intrusion Detection System for IoT/IIoT
+# AI-Based Intrusion Detection System for IoT/IIoT (Ongoing)
 
 ## 📌 Project Overview
 This project focuses on the design and implementation of an AI-based learning model for an **Intrusion Detection System (IDS)**. The goal is to protect complex environments including **Cloud Computing**, **Blockchain Networks**, and **IoT/IIoT Perception layers** from evolving cyber threats.
