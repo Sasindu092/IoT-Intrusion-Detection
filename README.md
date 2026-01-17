@@ -28,11 +28,9 @@ Advanced Cleaning: Resolved float32 overflow and infinity errors inherent in the
 
 Multi-Model Deployment: Implemented and evaluated 4 distinct machine learning architectures:
 
-Ensemble Methods: Random Forest, XGBoost.
-
-Distance & Boundary Based: K-Nearest Neighbors (KNN).
-
-Tree-Based: Decision Trees.
+1. Ensemble Methods: Random Forest, XGBoost.
+2. Distance & Boundary Based: K-Nearest Neighbors (KNN).
+3. Tree-Based: Decision Trees.
 
 🛠️ Performance Evaluation:
 
