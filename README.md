@@ -10,11 +10,11 @@ This project focuses on the design and implementation of an AI-based Intrusion D
 
 The system utilizes the Edge-IIoTset, a comprehensive library of IoT/IIoT connectivity protocols. The model classifies traffic into 15 categories (1 Normal + 14 Attack types) across five major threat categories:
 
-DoS/DDoS attacks
-Information gathering
-Man-in-the-middle (MITM) attacks
-Injection attacks
-Malware attacks
+1. DoS/DDoS attacks
+2. Information gathering
+3. Man-in-the-middle (MITM) attacks
+4. Injection attacks
+5. Malware attacks
 
 🛠️ Completed Technical Implementation
 
